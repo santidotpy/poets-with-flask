@@ -1,2 +1,8 @@
 # poets-with-flask
-A place where poets can share their work with other colleagues
+Currently just the backend of a social network for poets
+
+## Installation
+Run `./install.sh`
+
+## Booting
+Run `./boot.sh`
