@@ -1,0 +1,11 @@
+/bin
+/include
+/lib
+/lib64
+/share
+/.idea
+pyvenv.cfg
+**/__pycache__
+.env
+Insomnia.json
+database.db

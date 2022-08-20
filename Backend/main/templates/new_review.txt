@@ -1,0 +1,6 @@
+Hello {{review.poem.user.name}}!
+Your poem "{{review.poem.title}}" just got a review.
+
+Preview:
+    Rating: {{review.rating}}
+    Description: {{review.comment}}
